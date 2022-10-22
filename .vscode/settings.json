@@ -1,0 +1,31 @@
+{
+  "cSpell.words": [
+    "Adaptee",
+    "flowbite",
+    "Formik",
+    "gogobei",
+    "tailwindcss",
+    "usum"
+  ],
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "files.exclude": {
+    "node_modules": true
+  },
+  "editor.tabSize": 2,
+  "tailwindCSS.classAttributes": [
+    "class",
+    "className",
+    "ngClass",
+    "inputClassName",
+    "enter",
+    "enterFrom",
+    "enterTo",
+    "leave",
+    "leaveFrom",
+    "leaveTo",
+    "shadowClassName"
+  ],
+  "tailwindCSS.experimental.classRegex": [
+    "cn\\(([^\\)]*)" // cn("...")
+  ]
+}
